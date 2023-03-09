@@ -11,6 +11,7 @@ header{
     text-align: left;
     padding-left: 10%;
     padding-top: 20%;
+    font-size: x-large;
 }
 
 footer{
@@ -19,6 +20,7 @@ footer{
     background-color: #2b2b2b;
     color: white;
     text-align: center;
+    padding-top: 30px;
 }
  
 
